@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kae (@kae-bon).
+- 👀 I’m interested in coffee, plants, and video games.
+- 🌱 I’m currently learning HTML and CSS.
+- 📫 You can reach me at k.n.bonaguro@gmail.com.
