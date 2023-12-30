@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋, my name is Kae.
+
+- 🌱 I’m currently learning JavaScript, Java, and Git.
+- 💬 Ask me about plants.
+- ⚡ Fun fact: I'm an avid baker and am currently learning how to bake cakes.
