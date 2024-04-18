@@ -19,14 +19,23 @@ Hello, friends! My name is Kae and I'm a junior software developer who values co
 
 My skills include:
 -⭐ Java
+
 -⭐ Spring Boot
+
 -⭐ JUnit
+
 -⭐ SQL
+
 -⭐ PostgreSQL
+
 -⭐ JavaScript
+
 -⭐ Vue.js
+
 -⭐ HTML
+
 -⭐ CSS
+
 -⭐ Bootstrap
  
 
