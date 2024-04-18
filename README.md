@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Hello, friends! My name is Kae and I'm a junior software developer who values continued learning, community, and collaboration.
 
 My skills include:
+
 -⭐ Java
 
 -⭐ Spring Boot
