@@ -15,8 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋, my name is Kae.
+Hello, friends! My name is Kae and I'm a junior software developer who values continued learning, community, and collaboration.
 
-- 🌱 I’m currently learning JavaScript, Java, and Git.
-- 💬 Ask me about plants.
-- ⚡ Fun fact: I'm an avid baker and am currently learning how to bake cakes.
+My skills include:
+⭐ Java
+⭐ Spring Boot
+⭐ JUnit
+⭐ SQL
+⭐ PostgreSQL
+⭐ JavaScript
+⭐ Vue.js
+⭐ HTML
+⭐ CSS
+⭐ Bootstrap
+ 
+
+⚡ Fun fact: I'm an avid baker and love baking cookies and cakes!
