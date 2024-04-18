@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 Hello, friends! My name is Kae and I'm a junior software developer who values continued learning, community, and collaboration.
 
 My skills include:
-⭐ Java
-⭐ Spring Boot
-⭐ JUnit
-⭐ SQL
-⭐ PostgreSQL
-⭐ JavaScript
-⭐ Vue.js
-⭐ HTML
-⭐ CSS
-⭐ Bootstrap
+-⭐ Java
+-⭐ Spring Boot
+-⭐ JUnit
+-⭐ SQL
+-⭐ PostgreSQL
+-⭐ JavaScript
+-⭐ Vue.js
+-⭐ HTML
+-⭐ CSS
+-⭐ Bootstrap
  
 
-⚡ Fun fact: I'm an avid baker and love baking cookies and cakes!
+-⚡ Fun fact: I'm an avid baker and love baking cookies and cakes!
