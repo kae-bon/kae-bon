@@ -1,43 +1,19 @@
-### Hi there 👋
-
-<!--
-**kae-bon/kae-bon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋
 
 Hello, friends! My name is Kae and I'm a junior software developer who values continued learning, community, and collaboration.
 
-My skills include:
+## Web Development
+[![My Skills](https://skillicons.dev/icons?i=js,vue,html,css,bootstrap)](https://skillicons.dev)
 
--⭐ Java
+## Programming Languages & Frameworks
 
--⭐ Spring Boot
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
--⭐ JUnit
+## Database Management
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
--⭐ SQL
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,figma,notion,git,github,postman)](https://skillicons.dev)
 
--⭐ PostgreSQL
-
--⭐ JavaScript
-
--⭐ Vue.js
-
--⭐ HTML
-
--⭐ CSS
-
--⭐ Bootstrap
- 
-
--⚡ Fun fact: I'm an avid baker and love baking cookies and cakes!
+## Fun fact 
+:star2: I'm an avid baker and love baking cookies and cakes!
