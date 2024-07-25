@@ -1,9 +1,9 @@
 # Hi there 👋
 
-Hello, friends! My name is Kae and I'm a junior software developer passionate about building accessible, responsive, and user-friendly web applications. 
+Hello, friends! My name is Kae and I'm a software developer passionate about building accessible, responsive, and user-friendly web applications. 
 
 ## Web Development
-[![My Skills](https://skillicons.dev/icons?i=js,vue,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,vue,html,css,bootstrap)](https://skillicons.dev)
 
 ## Programming Languages & Frameworks
 
